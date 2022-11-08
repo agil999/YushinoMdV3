@@ -17,5 +17,5 @@ handler.help = ['poll <halo|apa|kabar>']
 handler.tags = ['group'] 
 handler.command = ['poll', 'polling'] 
 handler.group = true
-handler.admin = true
+handler.admin = false
 export default handler
