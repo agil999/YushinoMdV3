@@ -45,9 +45,9 @@ global.owner = [
 global.mods = []
 global.prems = []
 global.nomorbot = '6282137460973'
-global.nomorown = '6282228289625'
+global.nomorown = '6283144700823'
 global.nomorown1 = '6283144700823'
-global.nomorown2 = '6283144700822'
+global.nomorown2 = '6282228289625'
 global.nomorwa = '0'
 
 
@@ -304,7 +304,7 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
 
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/m_agg._"
+global.urlnya = "https://www.instagram.com/jokowi"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
 global.phn = '083144700823'
 
